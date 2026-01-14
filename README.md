@@ -10,7 +10,7 @@ a Computer Science graduate passionate about solving real-world problems with da
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=beatricewambui4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=beatricewambui4&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=beatrice-wakonyo-tech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beatricewambui4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
