@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 i'm Beatrice a Computer Science graduate passionate about solving real-world problems with data. Skilled in Pandas for data cleaning, SQL for querying, and currently learning Power BI for data visualization.
 
-<!--
-**beatricewambui4/beatricewambui4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 
+MySQL project and Pandas project documentation.
+- 🌱 I’m currently learning 
+Power BI for data visualization.
+- 👯 I’m looking to collaborate on 
+Projects involving data cleaning with Pandas, data exploration, and querying with SQL.
+- 🤔 I’m looking for help with 
+Tasks and projects that push my data skills further.
+- 💬 Ask me about 
+Anything related to MySQL, data cleaning with Pandas, and basic Power BI.
+- 📫 How to reach me: 
+wakonyobeatrice92@gmail.com/wakonyobeatrice01@gmail.com
+- 😄 Pronouns: 
+She/Her
+- ⚡ Fun fact: 
+I love turning raw data into actionable insights!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
